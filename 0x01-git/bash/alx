@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/binbash
+#!/bin/bash
 ALX
-=======
-ALX school
->>>>>>> update_script
